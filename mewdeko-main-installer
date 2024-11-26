@@ -15,7 +15,7 @@ _SERVICE_NAME="mewdeko.service"
 _SERVICE="/etc/systemd/system/$_SERVICE_NAME"
 
 ## Indicates which major version of .NET and Java (minimum) is required.
-req_dotnet_version=6
+req_dotnet_version=7
 req_min_java_version=11
 
 
